@@ -1,4 +1,4 @@
-# 🚗 Car Sales Dashboard  
+# Automobile Sales Report  
 
 ![Dashboard Preview](https://github.com/Jericho0015/Automobile-Showroom-Sales-KPI-/blob/main/Report%20Preview/Dashboard_preview_1.png)  
 
