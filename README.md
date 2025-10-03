@@ -1,6 +1,6 @@
 # 🚗 Car Sales Dashboard  
 
-![Dashboard Preview](images/dashboard_preview.png)  
+![Dashboard Preview](https://github.com/Jericho0015/Automobile-Showroom-Sales-KPI-/blob/main/Report%20Preview/Dashboard_preview_1.png)  
 
 ## 📌 Project Overview  
 This project provides a **Automobile Sales Performance Report** built using Power BI, analyzing sales, growth, presales, and budget allocation across multiple car models over the last **4 years (2019–2022)**.  
